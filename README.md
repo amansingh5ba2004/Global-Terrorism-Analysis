@@ -1,4 +1,5 @@
 🌍 Global Terrorism Analysis: Enhanced Overview
+
 📌 Project Objective
 This project provides a comprehensive analysis of global terrorism trends by leveraging SQL for robust data processing and Power BI for advanced data visualization. The primary aim is to transform raw terrorism incident data into actionable intelligence that supports forecasting, strategic planning, and risk mitigation for governments, analysts, and researchers.
 
