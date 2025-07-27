@@ -1,4 +1,3 @@
-Here's an enhanced and polished version of your `README.md` content, optimized for clarity, professional tone, and readability for both technical and non-technical audiences:
 
 ---
 
@@ -112,8 +111,6 @@ The dataset encapsulates detailed records of global terrorist incidents. Each en
 This project demonstrates how combining **SQL-based data engineering** with **Power BI visual storytelling** can yield powerful insights into global terrorism dynamics. It serves as a strong foundation for building predictive models, enhancing policy response, and supporting real-time monitoring tools.
 
 ---
-
-Let me know if you want to include:
 
 * Screenshots of dashboards
 * SQL schema or ER diagram
